@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Burrito</string>
+    <string name="signup_text">Create an account? <font color="@colors/yellow"><b>Signup</b></font></string>
+
+</resources>

@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyBurrito" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/yellow</item>
+        <item name="android:colorPrimaryDark">@color/dark</item>
+        <item name="colorOutline">@color/yellow</item>
+        <item name="colorSecondary">@color/light_yello</item>
+    </style>
+
+    <style name="Theme.MyBurrito" parent="Base.Theme.MyBurrito" />
+    <style name="LoginTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@color/yellow</item>
+        <item name="boxStrokeWidth">2dp</item>
+        <item name="colorOutline">@color/yellow</item>
+        <item name="colorAccent">@color/yellow</item>
+        <item name="colorControlNormal">@color/yellow</item>
+        <item name="textOutlineColor">@color/yellow</item>
+    </style>
+</resources>

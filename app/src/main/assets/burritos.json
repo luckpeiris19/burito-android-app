@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Poke Burritos",
+    "price": 14.99,
+    "description": "Indulge in the delightful flavors of fresh poke wrapped in a warm tortilla with a medley of ingredients, offering a burst of taste in every bite.",
+    "image": "https://www.heinens.com/wp-content/uploads/2022/07/Poke-Burrito-800x550-1.jpg"
+  },
+  {
+    "name": "Carne Asada Tacos",
+    "price": 12.49,
+    "description": "Savor the bold and savory taste of carne asada, perfectly seasoned and served in soft tacos for a satisfying and flavorful experience.",
+    "image": "https://www.heinens.com/wp-content/uploads/2021/02/Carne-Asada-Tacos_800x550.jpg"
+  },
+  {
+    "name": "Sweet Potato Burritos",
+    "price": 11.99,
+    "description": "Experience the perfect blend of sweet and savory with sweet potato burritos, filled with lentils, kale, and a delightful combination of ingredients.",
+    "image": "https://www.heinens.com/wp-content/uploads/2022/03/Lentil-Sweet-Potato-and-Kale-Burritos-800x550-1.jpg"
+  },
+  {
+    "name": "Cauliflower Quinoa",
+    "price": 13.99,
+    "description": "Delight in the crispy goodness of cauliflower combined with nutritious quinoa, served in tacos for a satisfying and wholesome meal.",
+    "image": "https://www.heinens.com/wp-content/uploads/2022/12/Crispy-Cauliflower-Rice-Tacos-800x550-1.jpg"
+  },
+  {
+    "name": "Carne Asada Burrito",
+    "price": 15.49,
+    "description": "Savor the bold flavors of carne asada combined with rice, beans, and your choice of toppings in this delicious and hearty burrito.",
+    "image": "https://www.heinens.com/wp-content/uploads/2020/08/Carne-Asada-Burrito_800x550.jpg"
+  },
+  {
+    "name": "Chicken Burrito",
+    "price": 14.99,
+    "description": "Enjoy the mouthwatering combination of seasoned chicken, rice, beans, and flavorful toppings in this classic and satisfying burrito.",
+    "image": "https://www.heinens.com/wp-content/uploads/2020/09/Chicken-Burrito-Skillet_800x550.jpg"
+  },
+  {
+    "name": "California Club Wrap",
+    "price": 16.99,
+    "description": "Experience the California vibes with this burrito featuring fresh ingredients and a touch of West Coast flavor, served in a delightful wrap.",
+    "image": "https://www.heinens.com/wp-content/uploads/2020/06/California-Club-Wrap_Header_800x550.jpg"
+  },
+  {
+    "name": "Black Bean",
+    "price": 10.99,
+    "description": "Delight in the simplicity of a black bean burrito, featuring a classic blend of beans and melted cheese wrapped in a warm tortilla.",
+    "image": "https://www.heinens.com/wp-content/uploads/2020/04/Black-Bean-and-Cheese-Yamadillas_800x550.jpg"
+  },
+  {
+    "name": "Vegetable Burrito",
+    "price": 11.49,
+    "description": "Savor the goodness of roasted spring vegetables wrapped in a warm tortilla, offering a burst of flavors in every bite.",
+    "image": "https://www.heinens.com/wp-content/uploads/2020/03/Roasted-Spring-Vegetable-Burrito_Header_800x550.jpg"
+  },
+  {
+    "name": "Butternut Burrito",
+    "price": 12.99,
+    "description": "Treat yourself to the Butternut Burrito, filled with a medley of delicious ingredients, including butternut squash, for a satisfying and flavorful meal.",
+    "image": "https://www.heinens.com/wp-content/uploads/2019/10/Butternut-Squash-Burrito-Bowl-Header_800x550.jpg"
+  }
+]
